@@ -1,15 +1,15 @@
 ### Hi there 👋 my name is Ochem Linda
 
-Cloud Developer | Web Developer | Cloud Engineer
+DevOps Engineer | Web Developer | Cloud Engineer
 
 🌍  I'm based in Lagos, Nigeria
 
 ✉️  You can contact me at lindaochem@gmail.com
 
-🤝  I'm open to collaborating on Cloud development projects with AWS, NodeJs, typescript, and JavaScript
+🤝  I'm open to collaborating on DevOps projects with AWS, Azure, typescript, and JavaScript
 Skills
 
-TypeScript JavaScript HTML5 CSS3 Bootstrap PostgreSQL MySQL MongoDB Express NodeJS
+Azure DevOps, AWS, Kubernetes, Docker, Jenkins, Terraform, Azure Biceps, Bash, Linux, TypeScript JavaScript, PostgreSQL, MySQL, Express NodeJS
 
 
 

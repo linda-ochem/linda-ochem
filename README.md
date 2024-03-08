@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ochem Linda
 
-DevOps Engineer | Web Developer | Cloud Engineer
+DevOps Engineer 
 
 🌍  I'm based in Lagos, Nigeria
 
